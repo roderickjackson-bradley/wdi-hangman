@@ -1,0 +1,15 @@
+/*
+
+Main CSS
+
+*/
+
+#guess {
+    letter-spacing: 0.5rem;
+}
+
+section {
+    background-image: url("../images/hangman_image_wdi.png");
+    widows: 75px;
+    height: 200px;
+}
